@@ -1,0 +1,19 @@
+.perhourfields > div{
+    display:block; overflow:hidden; margin:0 0 5px;	
+}
+
+.perhoursfees{display:flex; align-items:center;}
+
+.checkboxField{ width:105px; margin: 8px 17px 4px 0; }
+.active {
+    /* background-color: #f8f9fa; */
+     /* Change this to your desired active background color */
+    color: #000; /* Change this to your desired active text color */
+    font-weight: bold; /* Change this to your desired active font weight */
+  }
+
+.perhoursfees input {
+padding: 5px 2px;
+margin: 0 0 2px 6px;
+height: 33px;
+}
